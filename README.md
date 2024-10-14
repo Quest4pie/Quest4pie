@@ -4,7 +4,7 @@
 
 An up-and-coming cyber security specialist excited to learn more about ins and outs of all things vulnerabilities and risk.
 
-Dad of 2 | D&D Pro Dungeon Master | Fitness Nerd | WoW Raider | Author
+Dad of 2 | D&D Pro Dungeon Master | Fitness Nerd | Author
 
 ## Objective
 
