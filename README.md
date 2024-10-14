@@ -12,19 +12,21 @@ Tryhackme's Advent 2023 lit a passion for cybersecurity in me, and I am now eage
 
 ## Projects
 - <a href="https://github.com/Quest4pie/AzureSIEMVANGUARDGEOLOCATION/wiki/Azure-SIEM-Geolocator-Write%E2%80%90Up">Azure SIEM with Geolocation</a>
-- Nessus and Metasploit | (IN progress)
+- <a href="https://github.com/Quest4pie/Active_Directory/blob/main/README.md">Active Directory and Kali</a>
 
 ## Skills
 
 | Skill                                         | Associated Project/Experience|
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | Azure SIEM Project
-| Network Traffic Monitoring and Attack Detection | Azure SIEM Project
-| Vulnerability Management                      | Qualys and Nessus |
+| Network Traffic Monitoring and Attack Detection | Tryhackme & Azure SIEM Project |
+| Vulnerability Management                      | Qualys |
 | Cyber Threat Intelligence                     | Tryhackme |
-| Incident Response Planning and Execution      | Security + |
-| Identity and Access Management                | Security + |
+| Incident Response Planning and Execution      | Tel Security + |
+| Identity and Access Management                | Sec+ and Active Directory Project |
 | Phishing Campaign and Presentation            | Mastercard Forage Internship |
+| Splunk and Azure                              | Azure and AD projects |
+| Kali Crowbar Bruteforce                       | Active Directory Project |
 
 ## Tools
 
@@ -45,11 +47,12 @@ Tryhackme's Advent 2023 lit a passion for cybersecurity in me, and I am now eage
 ### Vulnerability Manager
 <div>
     <img src="https://img.shields.io/badge/-Qualys-00A4EF?&style=for-the-badge&logo=Qualys&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-00A4EF?&style=for-the-badge&logo=Nessust&logoColor=white" />
-
+</div>
+  
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Splunk-00A4EF?&style=for-the-badge&logo=Splunkt&logoColor=white" />
 </div>
 
 ## Certifications
