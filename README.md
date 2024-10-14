@@ -11,7 +11,7 @@ Dad of 2 | D&D Pro Dungeon Master | Fitness Nerd | WoW Raider | Author
 Tryhackme's Advent 2023 lit a passion for cybersecurity in me, and I am now eager to transition into this field, specifically aiming to join a blue team organization.
 
 ## Projects
-- <a href="https://github.com/Quest4pie/AzureSIEMVANGUARDGEOLOCATION.git">Azure SIEM with Geolocation</a>
+- <a href="(https://github.com/Quest4pie/AzureSIEMVANGUARDGEOLOCATION/wiki/Azure-SIEM-Geolocator-Write%E2%80%90Up)">Azure SIEM with Geolocation</a>
 - Nessus and Metasploit | (IN progress)
 
 ## Skills
