@@ -22,7 +22,7 @@ Tryhackme's Advent 2023 lit a passion for cybersecurity in me, and I am now eage
 | Network Traffic Monitoring and Attack Detection | Tryhackme & Azure SIEM Project |
 | Vulnerability Management                      | Qualys |
 | Cyber Threat Intelligence                     | Tryhackme |
-| Incident Response Planning and Execution      | Tel Security + |
+| Incident Response Planning and Execution      | Telstra Forage Internship, Security + |
 | Identity and Access Management                | Sec+ and Active Directory Project |
 | Phishing Campaign and Presentation            | Mastercard Forage Internship |
 | Splunk and Azure                              | Azure and AD projects |
